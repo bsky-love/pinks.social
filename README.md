@@ -1,6 +1,6 @@
 # Bluesky Community Handles tool
 
-Get your own community handle for Bluesky!
+Get your own community handle for Bluesky.
 
 Go to https://swifties.social to join the swifties.social community.
 
